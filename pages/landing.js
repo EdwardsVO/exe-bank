@@ -16,8 +16,8 @@ function landing() {
             </div>
             <div className="flex flex-row mt-20 bg-yellow-400 p-32 items-center align-middle justify-center">
                 <div className="  bg-yellow-400 ">
-                    <a href="/login" className="shadow-md text-xl py-10 px-32 leading-none border rounded text-black font-bold border-black hover:border-transparent hover:text-white hover:text-teal-500 hover:bg-black duration-75">
-                        Registrate Ya</a>
+                    <a href="/menu" className="shadow-md text-5xl py-10 px-32 leading-none border rounded text-black font-bold border-black hover:border-transparent hover:text-white hover:text-teal-500 hover:bg-black duration-75">
+                        Entrar</a>
                 </div>
                 <div className="w-max flex flex-col bg-yellow-400 ">
                     <p className="text-7xl font-semibold pl-40"> QUE ESTÁS ESPERANDO !</p>
